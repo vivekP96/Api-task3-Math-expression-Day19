@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(254, 254, 254);
+}
+
+
+#maindiv{
+ 
+  margin-top: 50px;
+    border: 2px  black ;
+    border-style:groove;
+    max-width: max-content;
+  }
+  h1{
+    font-family: 'Rubik Bubbles', cursive;
+    color:rgb(26, 99, 75)
+  }
+  p{
+    padding: 8px;
+    font-family: 'Roboto Serif', serif;
+    font-size: 22px;
+  }
+  button{
+    display: inline-block;
+  }
+  div{
+    font-size: medium;
+  }
+  #reset{
+    display: inline-block;
+  }
+  
